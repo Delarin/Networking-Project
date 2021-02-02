@@ -174,3 +174,5 @@ The Resistance provided you with a hidden message in the TXT record, with severa
 
 
 Follow the steps from the TXT record.
+
+### See Mission 1 through 7 files for the solutions for each missions.
